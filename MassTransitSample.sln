@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitSample", "MassTransitSample\MassTransitSample.csproj", "{E4A3C2AC-12BA-409F-8D5D-E686F6EB1410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitSample.MessageBus", "MassTransitSample.MessageBus\MassTransitSample.MessageBus.csproj", "{8B775BC2-F41B-4B3E-BD91-491D1668C2AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A3C2AC-12BA-409F-8D5D-E686F6EB1410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A3C2AC-12BA-409F-8D5D-E686F6EB1410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A3C2AC-12BA-409F-8D5D-E686F6EB1410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A3C2AC-12BA-409F-8D5D-E686F6EB1410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B775BC2-F41B-4B3E-BD91-491D1668C2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B775BC2-F41B-4B3E-BD91-491D1668C2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B775BC2-F41B-4B3E-BD91-491D1668C2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B775BC2-F41B-4B3E-BD91-491D1668C2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E1970B-4534-4D4C-A5BD-E7EA5CB764AD}
+	EndGlobalSection
+EndGlobal
